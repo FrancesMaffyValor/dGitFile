@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/samuelbetio/dGitFile/blob/master/res/images/dGitFile.png" width="20" height=auto /> dGitFile </h1>
+<h1> <img src="res/images/dGitFile.png" width="20" height=auto /> dGitFile </h1>
 
 #### Create GitHub Directory Download Link
 
